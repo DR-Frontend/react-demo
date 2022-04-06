@@ -8,11 +8,6 @@ const App = () => (
     </div>
     <div>
       <Curso />
-      <Curso />
-      <Curso />
-      <Curso />
-      <Curso />
-      <Curso />
     </div>
   </>
 )
